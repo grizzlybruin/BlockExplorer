@@ -71,7 +71,7 @@ application/json request:
 
 
 ### Performance Considerations
-flattening initial block data 
-web3.BatchRequest()
-cache
+flattening initial block data <br/>
+web3.BatchRequest() <br/>
+cache <br/>
 
